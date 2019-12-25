@@ -15,6 +15,7 @@ A DRF web service to handle employee management
 ## prerequisites installation:
     pip3 install -r requirements.txt
     
+    
 ## Management commands to dump data to db from csv:
 ### Migrating employee data:   
     python manage.py migrate_employee_to_db
@@ -24,6 +25,8 @@ A DRF web service to handle employee management
     python manage.py migrate_projects_to_db
 ### Migrating skills data    
     python manage.py migrate_skills_to_db
+### csv files:
+    csv files paths are configured in settings.py with appropriate names 
     
 ### User Authentication:
     Everytime when a record is inserted into Employee table an that record got inserted into User Table as well
