@@ -1,0 +1,54 @@
+Emp ID,Skills,Grade
+1,ML L0,Beginner
+1,PostGres,Intermediate
+1,Visualization,Pro
+1,Java,Beginner
+1,Pandas,Intermediate
+2,Scala,Beginner
+2,ML L1,Intermediate
+3,ML L1,Pro
+3,Personalization,Beginner
+3,Pandas,Intermediate
+3,PostGres,Pro
+4,Personalization,Beginner
+4,ML L0,Beginner
+5,PostGres,Intermediate
+6,Visualization,Pro
+6,SQL,Beginner
+7,Visualization,Intermediate
+8,Personalization,Pro
+9,Java,Beginner
+9,Personalization,Intermediate
+9,Scala,Pro
+9,ML L0,Beginner
+10,SQL,Intermediate
+10,R,Pro
+10,PostGres,Beginner
+11,ML L1,Intermediate
+11,Pandas,Pro
+11,R,Beginner
+12,Scala,Intermediate
+12,Java,Pro
+13,Java,Beginner
+13,Scala,Intermediate
+13,Pandas,Pro
+13,ML L0,Beginner
+14,PostGres,Beginner
+14,ML L1,Intermediate
+14,Java,Pro
+15,Pandas,Beginner
+15,Java,Intermediate
+15,Scala,Pro
+15,Personalization,Beginner
+16,Java,Intermediate
+16,R,Pro
+17,Java,Beginner
+17,R,Beginner
+17,Python,Intermediate
+17,SQL,Pro
+17,Personalization,Beginner
+18,ML L1,Intermediate
+19,PostGres,Pro
+19,Personalization,Beginner
+19,Java,Intermediate
+20,SQL,Pro
